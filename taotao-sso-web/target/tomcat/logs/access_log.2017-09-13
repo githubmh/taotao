@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /page/login?url=http://localhost:8091/order/order-cart.html HTTP/1.1" 200 4049 http-bio-8088-exec-1 538
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /css/login.css HTTP/1.1" 200 28031 http-bio-8088-exec-7 9
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-8088-exec-2 12
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-8088-exec-8 2
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /images/login-all-bg.png HTTP/1.1" 200 12219 http-bio-8088-exec-10 3
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 200 195803 http-bio-8088-exec-9 5
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:32 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8088-exec-9 1
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:07:40 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8088-exec-9 574
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:58:45 +0800] "GET /user/token/87f92d10-1d21-4b3c-b69c-41d2f3ffbce3?callback=jQuery3585906&_=1505296725051 HTTP/1.1" 200 95 http-bio-8088-exec-1 18
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:58:46 +0800] "GET /user/token/87f92d10-1d21-4b3c-b69c-41d2f3ffbce3?callback=jQuery2091793&_=1505296726090 HTTP/1.1" 200 95 http-bio-8088-exec-7 4
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:59:06 +0800] "GET /page/login?url=http://localhost:8091/order/order-cart.html HTTP/1.1" 200 4049 http-bio-8088-exec-7 3
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:17:59:12 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8088-exec-7 11
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:18:00:05 +0800] "GET /user/token/b15d2d55-5eef-4195-8519-84c2a947078a?callback=jQuery299718&_=1505296805431 HTTP/1.1" 200 196 http-bio-8088-exec-7 7
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:18:00:27 +0800] "GET /user/token/b15d2d55-5eef-4195-8519-84c2a947078a?callback=jQuery1748365&_=1505296827262 HTTP/1.1" 200 197 http-bio-8088-exec-7 6
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:18:02:28 +0800] "GET /user/token/b15d2d55-5eef-4195-8519-84c2a947078a?callback=jQuery7637050&_=1505296948414 HTTP/1.1" 200 197 http-bio-8088-exec-8 9
+0:0:0:0:0:0:0:1 - - [13/Sep/2017:18:04:10 +0800] "GET /user/token/b15d2d55-5eef-4195-8519-84c2a947078a?callback=jQuery9519897&_=1505297050207 HTTP/1.1" 200 197 http-bio-8088-exec-9 4
