@@ -1,0 +1,4 @@
+com\taotao\item\pojo\Item.class
+com\taotao\item\controller\ItemController.class
+com\taotao\item\controller\HtmGenController.class
+com\taotao\item\listener\ItemAddMessageListener.class
